@@ -90,6 +90,9 @@ Tipografía y patrones de colores:
 
 
 
+## **Prototipo en alta fidelidad**
+[Prototipo](https://marvelapp.com/85477bh/screen/39919021)
+
 
 link para imagenes 
 ![REXTIE](assets/images/rextie.png)
