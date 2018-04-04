@@ -26,7 +26,7 @@ No hay papeles ni billetes en el proceso.
 
 Usamos un lenguaje fácil de entender y transparencia en la información. Queremos que estés informado y que nos cuentes como sientes nuestro servicio para mejorarlo día a día.
 
-## OBJETIVO DEL PROYECTO
+## **OBJETIVO DEL PROYECTO**
 
 Proponer un nuevo diseño de la aplicación web (zona privada) que facilite a los
 usuarios realizar una cotización y operación de cambio de dólares.
@@ -82,9 +82,17 @@ Tipografía y patrones de colores:
 
 ![REXTIE](assets/images/tipografia-color.png)
 
+## **INVESTIGACIÓN**
+
+## **Bussines Model Canvas de Rextie**
+
+![REXTIE](assets/images/BMC-rextie.png)
+
+
+
 
 link para imagenes 
-![REXTIE](assets/images/rextie-img1.png)
+![REXTIE](assets/images/rextie.png)
 
 link para direcciones:
 [Ver con detalle](direccion http...)
