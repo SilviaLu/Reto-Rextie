@@ -37,7 +37,7 @@ Para ello se muestran las pantallas principales y secuencia de operación de com
 
 El usuario ingresa a la zona privada y se encuentra con la bienvenida a la página. Se debe tener en cuenta que cuando un cliente ingresa a la zona privada es porque quiere cotizar (realizar una operación) en su mayoría de veces.
    
-IMG-2
+![REXTIE paso-1](assets/images/rextie-paso1.png)
 
 El menú lateral izquierdo muestra las opciones habilitadas:
 
@@ -59,6 +59,7 @@ El usuario ingresa el valor que quiere cambiar y siempre se publica el tipo de c
 
 **Es obligatorio que cuando se llene cualquiera de los dos campos (Tengo o Quiero), el otro campo (Quiero o Tengo) se auto complete con el cálculo de tipo de cambio de compra o venta según corresponda.**
 
+![REXTIE paso-2](assets/images/rextie-paso2.png)
 
 **Paso 3:**
 
@@ -66,10 +67,15 @@ Se debe tener **claridad sobre la cuenta destino a la cual se enviará el cambio
 (registrada) en la que no quiere recibir sus fondos.
 **En este paso también se solicitará la actualización de su número de celular, previamente ingresado en el registro del usuario.**
 
+![REXTIE paso-3](assets/images/rextie-paso3.png)
+
 **Paso 4:**
 
 Se envía una notificación de los dos siguientes pasos que siguen en el proceso de cambio de dólares. **Es relevante que se resalte que el siguiente paso es Transferir desde tu banca en línea, donde se declara el número de cuenta de Rextie.** 
 Algunos clientes comenten un error en este paso y transfieren a una cuenta de Rextie que la tienen grabada o transfieren a su propio número de cuenta.
+
+![REXTIE paso-4](assets/images/rextie-paso4.png)
+
 
 **OJO:**
 Tipografía y patrones de colores:
